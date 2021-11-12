@@ -1,8 +1,8 @@
 - 👋 Hi, I’m cynthia
 - 👀 I’m interested in learning to code better and disecting algorithms
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on anything. I might not be much help but I would like to be a part of anything so I can learn.
-- 📫 Mention me! Although I am not online often I will try and answer asap!
+- 🌱 I’m currently learning Java and have a couple years of experince with C++.
+- 💞️ I’m looking to help out and work on projects.
+- 📫 Mention me!
 
 <!---
 cirache/cirache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
