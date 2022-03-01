@@ -1,6 +1,6 @@
 - 👋 Hi, I’m cynthia
 - 👀 I’m interested in learning to code better and disecting algorithms
-- 🌱 I’m currently learning Java and have a couple years of experince with C++.
+- 🌱 I’m currently learning JavaScript and have a couple years of experince with C++.
 - 💞️ I’m looking to help out and work on projects.
 - 📫 Mention me!
 
