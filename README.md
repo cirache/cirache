@@ -1,5 +1,5 @@
-- 👋 Hi, I’m cynthia
-- 👀 I’m interested in learning to code better and disecting algorithms
+- 👋 Hi, I’m Cynthia.
+- 👀 I’m interested in improving my coding knowledge.
 - 🌱 I’m currently learning JavaScript and have a couple years of experince with C++.
 - 💞️ I’m looking to help out and work on projects.
 - 📫 Mention me!
