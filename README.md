@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Cynthia.
-- 👀 I’m interested in improving my coding knowledge.
-- 🌱 I’m currently learning JavaScript and have a couple years of experince with C++.
-- 💞️ I’m looking to help out and work on projects.
+- 👋 Hi, my name is Cynthia.
+- 👀 I love learning from others and making projects with other devs!
+- 🌱 I’m currently learning Full Stack!
+- 💞️ I’m looking to help out and work on projects!
+- 🫶 My first language was C++,
+my current most used language is JS,
+and my least favorite language is Python! 🫣
 - 📫 Mention me!
 
 <!---
