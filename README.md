@@ -5,7 +5,6 @@
 - 🫶 My first language was C++,
 my current most used language is JS,
 and my least favorite language is Python! 🫣
-- 📫 Mention me!
 
 <!---
 cirache/cirache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
